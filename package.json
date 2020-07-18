@@ -1,0 +1,24 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jocovass/algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jocovass/algorithms/issues"
+  },
+  "homepage": "https://github.com/jocovass/algorithms#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.5",
+    "jest": "^26.1.0"
+  }
+}
