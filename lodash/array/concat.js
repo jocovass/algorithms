@@ -19,5 +19,3 @@ const concat = (array, ...values) => {
 
   return result;
 };
-
-console.log(concat({ b: "boo" }, 2, [3], [[4]], { a: "foo" }));
